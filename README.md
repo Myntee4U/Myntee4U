@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Myntee4U
+- 👋 Hi, I’m Myntee4U
 - 👀 I’m interested in making video games
 - 🌱 I’m currently learning code so that I can pursue my interests
 - 💞️ I’m looking to collaborate on making a large scale game one day
